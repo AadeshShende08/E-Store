@@ -3,6 +3,6 @@ E-Store is a comprehensive e-commerce web application built using Spring Boot. I
 Intuitive user interface for customers. <br>
 Robust admin panel for managing products and orders.<br>
 Secure payment integration.<br>
-Efficient database management using MySQL.<br>
-Technologies: Spring Boot, Java, MySQL, JSP, Bootstrap.<br>
+Efficient database management using MySQL.<br><br>
+Technologies: Spring Boot, Java, MySQL, JSP, Bootstrap.<br><br>
 Explore the E-Store project to learn about modern web application development and e-commerce solutions.
